@@ -1,5 +1,3 @@
-<img src="https://jluismp2023.github.io/logo.png" width="96" align="right" alt="">
-
 ### José Luis Macas Proaño
 
 Ingeniero Civil en Pasaje, El Oro, Ecuador. Trabajo como residente de obra vial y armo apps Android para el trabajo de campo y de oficina: topografía, nivelación, suelos y cálculo.
