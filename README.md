@@ -14,6 +14,6 @@ Ingeniero Civil en Pasaje, El Oro, Ecuador. Trabajo como residente de obra vial 
 | CalcIng | Calculadora estándar, científica y gráfica | [Descargar](https://jluismp2023.github.io/calcing-descargas/) |
 | Visnora Player | Reproductor para tus listas de TV: celular, Android TV, Fire TV y Windows | [Descargar](https://jluismp2023.github.io/visnora-descargas/) |
 
-Las apps de ingeniería y NotasYa funcionan sin internet y sin crear cuenta. Página con todas las apps: [jluismp2023.github.io](https://jluismp2023.github.io/)
+Las apps de ingeniería y NotasYa funcionan sin internet y sin crear cuenta. Página de mis apps: [jluismp2023.github.io](https://jluismp2023.github.io/)
 
 Contacto: jluismp2023@gmail.com
