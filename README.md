@@ -1,6 +1,6 @@
-### José Luis Macas Proaño
+### TerraIng Apps
 
-Ingeniero Civil en Pasaje, El Oro, Ecuador. Trabajo como residente de obra vial y armo apps Android para el trabajo de campo y de oficina: topografía, nivelación, suelos y cálculo.
+Apps Android hechas por un ingeniero civil y agrónomo de Pasaje, El Oro, Ecuador, para el trabajo de campo y de oficina: topografía, nivelación, suelos, cálculo y, pronto, agronomía.
 
 **Apps**
 
