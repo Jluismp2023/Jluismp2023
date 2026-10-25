@@ -12,7 +12,8 @@ Ingeniero Civil en Pasaje, El Oro, Ecuador. Trabajo como residente de obra vial 
 | GeoNivel Pro | Libreta de nivelación: cotas, cierre con tolerancia, tubería y bordillos | [Descargar](https://jluismp2023.github.io/geonivel-descargas/) |
 | GeoSuelo | Laboratorio de suelos: granulometría, Atterberg, SUCS y AASHTO | [Descargar](https://jluismp2023.github.io/geosuelo-descargas/) |
 | CalcIng | Calculadora estándar, científica y gráfica | [Descargar](https://jluismp2023.github.io/calcing-descargas/) |
+| Visnora Player | Reproductor para tus listas de TV: celular, Android TV, Fire TV y Windows | [Descargar](https://jluismp2023.github.io/visnora-descargas/) |
 
-Todas funcionan sin internet y sin crear cuenta. Página con todas las apps: [jluismp2023.github.io](https://jluismp2023.github.io/)
+Las apps de ingeniería y NotasYa funcionan sin internet y sin crear cuenta. Página con todas las apps: [jluismp2023.github.io](https://jluismp2023.github.io/)
 
 Contacto: jluismp2023@gmail.com
